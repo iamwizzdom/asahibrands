@@ -26,7 +26,7 @@
 <div class="page-wrapper">
  	
     <!-- Preloader -->
-    <div class="preloader"></div>
+   
  	
     <!-- Main Header / Header Style Two-->
     <header class="main-header header-style-two">
@@ -121,8 +121,11 @@
                                     	<ul>
                                             <li class="dropdown"><a href="index.html#">Tyre</a>
                                                 <ul>
-                                                    <li><a href="index.html">Tyre Retreading Centre</a></li>
-                                                    <li><a href="index-2.html">Asahi Tyre zone</a></li>
+                                                    <li><a href="#">Tyre Retreading Centre</a></li>
+                                                    <li><a href="#">Bridgestone</a></li>
+                                                    <li><a href="#">Firestone</a></li>
+                                                    <li><a href="#">Sailun</a></li>
+                                                    <li><a href="#">MRF</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown"><a href="index.html#">2/3 Wheelers</a>
